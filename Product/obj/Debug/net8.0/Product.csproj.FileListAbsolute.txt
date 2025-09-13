@@ -9,3 +9,4 @@ D:\Latest Study MAterial\Sandeep Sir\Dotnet Core Jenkins, Deveops, giyHub\Jenkin
 D:\Latest Study MAterial\Sandeep Sir\Dotnet Core Jenkins, Deveops, giyHub\Jenkins\session2\SAMPLEAPPLICATION\Product\obj\Debug\net8.0\refint\Product.dll
 D:\Latest Study MAterial\Sandeep Sir\Dotnet Core Jenkins, Deveops, giyHub\Jenkins\session2\SAMPLEAPPLICATION\Product\obj\Debug\net8.0\Product.pdb
 D:\Latest Study MAterial\Sandeep Sir\Dotnet Core Jenkins, Deveops, giyHub\Jenkins\session2\SAMPLEAPPLICATION\Product\obj\Debug\net8.0\ref\Product.dll
+D:\Latest Study MAterial\Sandeep Sir\Dotnet Core Jenkins, Deveops, giyHub\Jenkins\session2\SAMPLEAPPLICATION\Product\obj\Debug\net8.0\Product.sourcelink.json

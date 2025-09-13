@@ -1,0 +1,8 @@
+Case Study 1:
+        .net core  + xunit + console + dockerize + github + jenkins = CI + CD (localhost)
+Case Study 2:
+        .net core + xunit + efcore + azure database + github + github actions + azure web app = actual CI/CD
+Case Study 3:
+        .net core + xunit + efcore + azure database + github + Azure DevOps + azure web app = actual CI/CD
+Case Study 4:
+        Azure Service Bus

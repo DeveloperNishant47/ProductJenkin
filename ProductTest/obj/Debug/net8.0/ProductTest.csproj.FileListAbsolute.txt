@@ -112,3 +112,4 @@ D:\Latest Study MAterial\Sandeep Sir\Dotnet Core Jenkins, Deveops, giyHub\Jenkin
 D:\Latest Study MAterial\Sandeep Sir\Dotnet Core Jenkins, Deveops, giyHub\Jenkins\session2\SAMPLEAPPLICATION\ProductTest\bin\Debug\net8.0\ProductAPI.dll
 D:\Latest Study MAterial\Sandeep Sir\Dotnet Core Jenkins, Deveops, giyHub\Jenkins\session2\SAMPLEAPPLICATION\ProductTest\bin\Debug\net8.0\ProductAPI.pdb
 D:\Latest Study MAterial\Sandeep Sir\Dotnet Core Jenkins, Deveops, giyHub\Jenkins\session2\SAMPLEAPPLICATION\ProductTest\bin\Debug\net8.0\Product.pdb
+D:\Latest Study MAterial\Sandeep Sir\Dotnet Core Jenkins, Deveops, giyHub\Jenkins\session2\SAMPLEAPPLICATION\ProductTest\obj\Debug\net8.0\ProductTest.sourcelink.json
