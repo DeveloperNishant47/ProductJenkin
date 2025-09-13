@@ -1,0 +1,11 @@
+D:\Latest Study MAterial\Sandeep Sir\Dotnet Core Jenkins, Deveops, giyHub\Jenkins\session2\SAMPLEAPPLICATION\Product\bin\Debug\net8.0\Product.deps.json
+D:\Latest Study MAterial\Sandeep Sir\Dotnet Core Jenkins, Deveops, giyHub\Jenkins\session2\SAMPLEAPPLICATION\Product\bin\Debug\net8.0\Product.dll
+D:\Latest Study MAterial\Sandeep Sir\Dotnet Core Jenkins, Deveops, giyHub\Jenkins\session2\SAMPLEAPPLICATION\Product\bin\Debug\net8.0\Product.pdb
+D:\Latest Study MAterial\Sandeep Sir\Dotnet Core Jenkins, Deveops, giyHub\Jenkins\session2\SAMPLEAPPLICATION\Product\obj\Debug\net8.0\Product.GeneratedMSBuildEditorConfig.editorconfig
+D:\Latest Study MAterial\Sandeep Sir\Dotnet Core Jenkins, Deveops, giyHub\Jenkins\session2\SAMPLEAPPLICATION\Product\obj\Debug\net8.0\Product.AssemblyInfoInputs.cache
+D:\Latest Study MAterial\Sandeep Sir\Dotnet Core Jenkins, Deveops, giyHub\Jenkins\session2\SAMPLEAPPLICATION\Product\obj\Debug\net8.0\Product.AssemblyInfo.cs
+D:\Latest Study MAterial\Sandeep Sir\Dotnet Core Jenkins, Deveops, giyHub\Jenkins\session2\SAMPLEAPPLICATION\Product\obj\Debug\net8.0\Product.csproj.CoreCompileInputs.cache
+D:\Latest Study MAterial\Sandeep Sir\Dotnet Core Jenkins, Deveops, giyHub\Jenkins\session2\SAMPLEAPPLICATION\Product\obj\Debug\net8.0\Product.dll
+D:\Latest Study MAterial\Sandeep Sir\Dotnet Core Jenkins, Deveops, giyHub\Jenkins\session2\SAMPLEAPPLICATION\Product\obj\Debug\net8.0\refint\Product.dll
+D:\Latest Study MAterial\Sandeep Sir\Dotnet Core Jenkins, Deveops, giyHub\Jenkins\session2\SAMPLEAPPLICATION\Product\obj\Debug\net8.0\Product.pdb
+D:\Latest Study MAterial\Sandeep Sir\Dotnet Core Jenkins, Deveops, giyHub\Jenkins\session2\SAMPLEAPPLICATION\Product\obj\Debug\net8.0\ref\Product.dll
